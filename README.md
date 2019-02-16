@@ -7,8 +7,7 @@ The school Project:
   
 Create a RPG game: 
 
-For this project you can use elements you have developped during the 11 days of the pool. In order to make your player move you'll reRPG Game Project
-ad the console inputs.
+For this project you can use elements you have developped during the 11 days of the pool. In order to make your player move you'll read the console inputs.
 
 The game must have a multiplayer mode: so you can play with another player on the same server. In order to do that, the first player will have to create the server, and the second one will connect to that server.
 
