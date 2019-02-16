@@ -5,7 +5,7 @@ School Project:
 
 RPG Game Project
 
-`Create a RPG game: For this project you can use elements you have developped during the 11 days of the pool. In order to make your player move you'll read the console inputs.
+<blockquote>Create a RPG game: For this project you can use elements you have developped during the 11 days of the pool. In order to make your player move you'll read the console inputs.
 
 The game must have a multiplayer mode: so you can play with another player on the same server. In order to do that, the first player will have to create the server, and the second one will connect to that server.
 
@@ -29,4 +29,4 @@ Bind "show the scorebar" action to a key.
 
 The complexity of the game will be rated.
 
-Use design patterns in your project. You will have to explain the choice of design patterns used in the project.`
+Use design patterns in your project. You will have to explain the choice of design patterns used in the project.</blockquote>
