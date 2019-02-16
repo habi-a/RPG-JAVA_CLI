@@ -1,7 +1,7 @@
 # rpg_game_cli
 An RPG shell game using java
 
-The school project:
+## The school project:
 
 <blockquote>
   
@@ -32,3 +32,12 @@ Bind "show the scorebar" action to a key.
 The complexity of the game will be rated.
 
 Use design patterns in your project. You will have to explain the choice of design patterns used in the project.</blockquote>
+
+## Requirements
+Linux or MacOS
+
+## Build
+* Download source code
+* cd to server or client directory
+* Run `java *.java && java Main`
+* Have fun
